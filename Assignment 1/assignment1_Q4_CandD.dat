@@ -1,0 +1,24 @@
+set i := Sl1 Sl2 Sl3 Sl4 Sl5 Sl6 Sl7 ;
+set j := Nl8 Nl9 Nl10 Nl11 Nl12 Nl13 Nl14 Nl15 ;
+
+
+param :   cost_S    profit_S:=
+Sl1          11        6    
+Sl2          5         12    
+Sl3          5        10       
+Sl4          10        5      
+Sl5          2         11
+Sl6          5         5
+Sl7          12        3;
+
+param :   cost_N    profit_N:=
+Nl8          5         6
+Nl9          11        5
+Nl10         4         9
+Nl11         7         10
+Nl12         10        2
+Nl13         11        3
+Nl14         10        11
+Nl15         3         6;
+
+param totalcost := 32.5;
