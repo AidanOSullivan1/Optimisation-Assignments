@@ -1,0 +1,8 @@
+set j := T1 T2 T3 T4 ;
+
+
+param : lead  cobalt  value:=
+T1      1     3       4
+T2      0     5       1
+T3      5     1       3
+T4      3     4       5 ;
